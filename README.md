@@ -1,4 +1,3 @@
-# .git
+# Bigcat
 
-这是一个 Git 项目。
-
+Bigcat project.
