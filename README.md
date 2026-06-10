@@ -68,6 +68,11 @@
 codex plugin add garfield1.0@personal
 ```
 
+方式二
+```bash
+下载文件后，丢给ai让它自己安装
+```
+
 安装后新建线程即可使用 `$Garfield1.0` 触发技能。
 
 ## 使用示例
