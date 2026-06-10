@@ -1,12 +1,12 @@
 ﻿# Garfield1.0 — 加菲猫网文写作课程 Skill
 
-基于加菲猫1314520（猫大）完整网文写作课程体系蒸馏而成的 AI 写作专家技能。搭载 93 课、超 470 小时课程材料，可提供 Mentor（导师）、Practitioner（实战）、Expert（专家）三种模式。
+基于加菲猫1314520（猫大）完整网文写作课程体系蒸馏而成的 AI 写作专家技能。搭载超 470 小时课程材料，可提供 Mentor（导师）、Practitioner（实战）、Expert（专家）三种模式。
 
 ## 课程蒸馏方法
 
-本技能通过 [lineage-skill](https://github.com/JuneYaooo/lineage-skill) 管线完成课程材料的蒸馏与打包：
+本技能通过 [lineage-skill](https://github.com/JuneYaooo/lineage-skill) 完成课程材料的蒸馏与打包：
 
-1. **课程采集** — 收集加菲猫1314520的完整网文写作课程（93 课、约 474 小时），含逐字稿、课程摘要、案例分析
+1. **课程采集** — 收集加菲猫1314520的完整网文写作课程（截止26.06.10日，b站上传所有的视频以及部分文档，约 474 小时），含逐字稿、课程摘要、案例分析
 2. **结构化处理** — 提取课程核心概念、方法论、金句、证据链路，构建结构化的知识点网络
 3. **多模态打包** — 生成 `course_package.json`（结构化数据）、`course_digest.md`（课程精要）、`full_transcript.md`（完整逐字稿）、`evidence_map.json`（证据索引）等参考文件
 4. **Skill 生成** — 基于打包数据生成可交互的 AI Skill，支持 Mentor / Practitioner / Expert 三种交互模式
@@ -106,7 +106,7 @@ $Garfield1.0 我正在写一个玄幻小说的开头，帮我用课程中的"噱
 ## 致谢
 
 - **加菲猫1314520（猫大）** — 感谢猫大倾囊相授的网文创作知识体系，让网文写作从"玄学"变成了可学、可复制的科学
-- **lineage-skill** — 本 Skill 使用 [JuneYaooo/lineage-skill](https://github.com/JuneYaooo/lineage-skill) 管线进行课程蒸馏、结构化和打包。如果你有需求也可以使用 lineage-skill 蒸馏课程并开源生成的 Skill，建议在项目的 README 或说明中引用其仓库，方便后来者追溯生成方法和工具来源。
+- **lineage-skill** — 本 Skill 使用 [JuneYaooo/lineage-skill](https://github.com/JuneYaooo/lineage-skill) 进行课程蒸馏、结构化和打包。如果你有需求也可以使用 lineage-skill 蒸馏课程并开源生成的 Skill，建议在项目的 README 或说明中引用其仓库，方便后来者追溯生成方法和工具来源。
 
 ## 交流社群
 
