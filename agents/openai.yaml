@@ -1,0 +1,10 @@
+interface:
+  display_name: Bigcat_Writing_Course Course Skill
+  short_description: Source-grounded course Q&A, review, and workflows.
+  default_prompt: Use $Garfield1.0 to answer questions about Bigcat_Writing_Course
+    and cite the course sources.
+  icon_small: ./assets/skill-icon.svg
+  icon_large: ./assets/skill-icon.svg
+  brand_color: '#3B82F6'
+policy:
+  allow_implicit_invocation: true
