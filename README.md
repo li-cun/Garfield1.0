@@ -106,7 +106,7 @@ $Garfield1.0 我正在写一个玄幻小说的开头，帮我用课程中的"噱
 ## 致谢
 
 - **加菲猫1314520（猫大）** — 感谢猫大倾囊相授的网文创作知识体系，让网文写作从"玄学"变成了可学、可复制的科学
-- **lineage-skill** — 本 Skill 使用 [JuneYaooo/lineage-skill](https://github.com/JuneYaooo/lineage-skill) 管线进行课程蒸馏、结构化和打包。如果你使用 lineage-skill 蒸馏课程并开源生成的 Skill，建议在项目的 README 或说明中引用本仓库，方便后来者追溯生成方法和工具来源。
+- **lineage-skill** — 本 Skill 使用 [JuneYaooo/lineage-skill](https://github.com/JuneYaooo/lineage-skill) 管线进行课程蒸馏、结构化和打包。如果你有需求也可以使用 lineage-skill 蒸馏课程并开源生成的 Skill，建议在项目的 README 或说明中引用其仓库，方便后来者追溯生成方法和工具来源。
 
 ## 交流社群
 
